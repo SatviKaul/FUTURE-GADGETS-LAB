@@ -2,7 +2,7 @@
 ## Idea  :bulb: : Easy and Efficient access to Electric Vehicle Charging Station (EVCS)
 As we see there's no time in getting introduced by a bunch of Electric Vehicles (EV) around us. 
 Since the new launch would create opportunity for many companies to set up their charging stations around the state. 
-The customer (or the owner of the car) may come across a situation when he needs to charge his EV. He goes to the nearest EVCS (Electric Vehicle Charging Station) and found a queue and he has to wait in the queue.
+The customer (or the owner of the car) may come across a situation when he needs to charge his EV. He goes to the nearest EVCS (Electric Vehicle Charging Station) and found a queue and he has to wait in the queue
 
 <br>
 
